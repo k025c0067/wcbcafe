@@ -96,6 +96,12 @@ img {
 
 /*フッター
 ーーーーーーーーーーーーーーーーーーーーーー*/
+.page-footer {
+    background-image: url(../images/footer-s.webp);
+    background-size: cover;
+    background-position: center;
+    padding-top: 12rem;
+}
 .info {
     width: 100%;
     max-width: 544px;
